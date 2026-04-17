@@ -34,3 +34,10 @@ out/
 
 # Documentation (internal development docs)
 docs/
+
+# Temporary/auxiliary documentation
+GITHUB_SETUP.md
+PUSH_SUCCESS.md
+RENAME_NOTICE.md
+push-to-github.sh
+START.sh
